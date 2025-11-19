@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ptitmorceaux&fontSize=60&animation=fadeIn&fontAlignY=38" alt="header" width="100%" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://avatars.githubusercontent.com/ptitmorceaux" alt="Profile Picture" width="200px"/>
-</div>
+</div> -->
 
 ## 🎓 About Me
 
