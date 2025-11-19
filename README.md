@@ -11,7 +11,7 @@ I am currently a **3rd-year student at ESGI Paris**, majoring in **IABD** (Artif
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <div align="center">
 
