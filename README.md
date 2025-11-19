@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ptitmorceaux&fontSize=60&animation=fadeIn&fontAlignY=38" alt="header" width="100%" />
 </div>
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/ptitmorceaux" alt="pp" width="200px"/>
+  <img src="https://avatars.githubusercontent.com/ptitmorceaux" alt="Profile Picture" width="200px"/>
 </div>
 
-## 🎓 À propos de moi
+## 🎓 About Me
 
-Je suis actuellement étudiant en **3ème année à l'ESGI Paris** en spécialisation **IABD** (Intelligence Artificielle et Big Data).
+I am currently a **3rd-year student at ESGI Paris**, majoring in **IABD** (Artificial Intelligence & Big Data).
 
 ---
 
-## 🛠️ Ma Stack Technique
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Je suis actuellement étudiant en **3ème année à l'ESGI Paris** en spécialis
 
 ---
 
-## 📊 Mes Statistiques
+## 📊 My Statistics
 
 <p align="center">
   <img 
@@ -50,7 +50,8 @@ Je suis actuellement étudiant en **3ème année à l'ESGI Paris** en spécialis
     align="middle"
     alt="GitHub stats graph" 
   />
-  <img width="20" height="1" /> <img 
+  <img width="20" height="1" /> 
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptitmorceaux&layout=compact&theme=tokyonight&hide_border=true" 
     height="180" 
     align="middle"
