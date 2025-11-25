@@ -52,14 +52,14 @@ I am currently a **3rd-year student at ESGI Paris**, majoring in **IABD** (Artif
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ptitmorceaux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" 
+    src="https://github-readme-stats-mocha-chi-92.vercel.app/api?username=ptitmorceaux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     height="180" 
     align="middle"
     alt="GitHub stats graph" 
   />
   <img width="20" height="1" /> 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptitmorceaux&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&v=1" 
+    src="https://github-readme-stats-mocha-chi-92.vercel.app/api/top-langs/?username=ptitmorceaux&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&v=1" 
     height="180" 
     align="middle"
     alt="Most used languages graph" 
