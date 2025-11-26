@@ -52,7 +52,7 @@ I am currently a **3rd-year student at ESGI Paris**, majoring in **IABD** (Artif
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-mocha-chi-92.vercel.app/api?username=ptitmorceaux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-mocha-chi-92.vercel.app/api?username=ptitmorceaux&show_icons=true&theme=radical&hide_border=true&count_private=true" 
     height="180" 
     align="middle"
     alt="GitHub stats graph" 
